@@ -1,58 +1,44 @@
-# 👋 Hey, I’m Vishal Tiwari
+#  Hey , This is Vishal Tiwari
 
-🚀 **Full Stack Web3 Developer** — building decentralized applications on **EVM** and **Solana**.  
-I’m passionate about pushing the boundaries of what’s possible with blockchain, DeFi, and smart contract innovation.
+Smart Contract Engineer specializing in decentralized systems across EVM and Solana. I work on designing secure smart contracts, scalable backend services, and full-stack architectures for production Web3 applications.
 
----
+## Focus Areas
+- DeFi protocol design: AMMs, perpetuals, liquidity mechanics
+- Smart contract development in Solidity and Rust
+- Full-stack dApp engineering: on-chain → backend → frontend
+- Security, gas optimization, and audit-ready code
+- Distributed backend systems and event-driven workflows
 
-## 🧠 About Me
+## Experience
+**Smart Contract Engineer — Black Trade**  
+Designed and audited core trading contracts. Improved contract security, optimized gas usage, and implemented protocol logic.
 
-- 💻 Currently exploring **DeFi protocols** — diving deep into **AMMs, perpetuals, and liquidity mechanisms**.  
-- ⚙️ Skilled in developing **end-to-end decentralized systems** — from on-chain smart contracts to scalable web infrastructures.  
-- 🧩 Experienced with both **Solidity** and **Rust**, and integrating dApps with modern full-stack frameworks like **Next.js**, **Tailwind**, and **Node.js**.  
-- 🌍 Open-source enthusiast — love collaborating on projects that push the Web3 ecosystem forward.
+**Backend Developer — Astrazen**  
+Built scalable APIs, microservices, and pipeline systems for Web3 data processing and user workflows.
 
----
+**Full Stack Developer — BndBox**  
+Delivered production dApps with wallet integration, event tracking, and real-time UI systems connected to blockchain data.
 
-## 💼 Experience
+## Technical Skills
+**Smart Contracts & Web3**  
+Solidity · Rust · Anchor · Metaplex · Foundry · Hardhat · Ethers.js · Wagmi
 
-**🔹 Smart Contract Engineer — Black Trade**  
-*Worked on designing and auditing smart contracts for secure DeFi trading systems.*
+**Backend**  
+Node.js · Hono.js · Express · PostgreSQL · Redis · BullMQ · REST APIs
 
-**🔹 Backend Developer — Astrazen**  
-*Built scalable microservices and APIs powering data-intensive Web3 products.*
+**Frontend**  
+Next.js · TypeScript · Tailwind CSS · Shadcn/UI
 
-**🔹 Full Stack Developer — BndBox**  
-*Developed dynamic full-stack dApps integrating wallet authentication, blockchain events, and real-time UI dashboards.*
+**Infrastructure & Tools**  
+Git · Docker · Resend · Cloudflare R2 · Better-auth · CI/CD workflows
 
----
+## Current Work
+Researching and implementing:
+- Advanced DeFi primitives
+- Cross-chain messaging and rollup architectures
+- Security analysis, testing frameworks, and gas-efficient patterns
 
-## ⚒️ Tech Stack
-
-**Blockchain / Web3:**  
-`Solidity` · `Rust` · `Ethers.js` · `Wagmi` · `Anchor` · `Metaplex`
-
-**Backend:**  
-`Node.js` · `Hono.js` · `Express` · `PostgreSQL` · `BullMQ`
-
-**Frontend:**  
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Shadcn/UI`
-
-**Infra & Tools:**  
-`Resend` · `R2` · `Better-auth` · `Git` · `RESTful APIs` · `Docker`
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **DeFi primitives** (Perpetuals, AMMs, Liquidity Design)  
-- **Cross-chain bridging** and **Layer 2 scaling**  
-- **Security auditing** and **gas optimisation**
-
----
-
-## 🤝 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/vishal-tiwari-102bb4294/)  
-- 🐦 [X / Twitter](https://x.com/VishalT12094272)  
-
+## Links
+LinkedIn: https://www.linkedin.com/in/vishal-tiwari-102bb4294/  
+Twitter: https://x.com/VishalT12094272  
+Email: fantasydark001@gmail.com
