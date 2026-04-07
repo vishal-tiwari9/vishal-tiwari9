@@ -37,36 +37,10 @@ Publicly reported security findings:
 - **Reentrancy Vulnerability — RaiseBox Faucet**  
   https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/s/399
 
-
-
 - **Orderbook Protocol — Logic / Edge-Case Vulnerability**  
   https://codehawks.cyfrin.io/c/2025-07-orderbook/s/115
 
----
 
-## Technical Skills
-
-**Smart Contracts & Web3**  
-Solidity · Rust · Anchor · Metaplex · Foundry · Hardhat · Ethers.js · Wagmi
-
-**Backend**  
-Node.js · Hono.js · Express · PostgreSQL · Redis · BullMQ · REST APIs
-
-**Frontend**  
-Next.js · TypeScript · Tailwind CSS · Shadcn/UI
-
-**Infrastructure & Tools**  
-Git · Docker · Cloudflare R2 · CI/CD · Auth & Email Systems
-
----
-
-## Current Work
-Researching and building:
-- Advanced DeFi primitives
-- Cross-chain messaging & rollup architectures
-- Security analysis, testing frameworks, and gas-efficient patterns
-
----
 
 ## Links
 -**Portfolio:**https://vishaltiwari.me
