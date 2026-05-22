@@ -1,49 +1,22 @@
-# Hey, This is Vishal Tiwari
+# Showcase :)
+### Smart Contracts
+- **[GMX Vault](https://github.com/vishal-tiwari9/Gmx-vault)** - On-chain vault that allows users to deposit USDC and automatically open leveraged long/short positions on GMX.
+- **[Synthora Vault](https://github.com/vishal-tiwari9/Synthora-Vault)** - ( 🔴 INCOMPLETE ) Automated leveraged trading vault for stocks (AAPL, TSLA, NVDA) and Gold.
+- **[Soho Order Book](https://github.com/vishal-tiwari9/Soho-Order-Book)** - Lite order book built in Solidity (Foundry) with order creation, matching, and cancellation.
+- **[Agreement Monitoring](https://agreement-monitoring.vercel.app/)** - (Freelance) Smart contract solution for monitoring and managing agreements.
+- **[Solana Liquidity Indexer](https://github.com/vishal-tiwari9/Solana-Liquidity-Indexer)** - Rust-based real-time liquidation indexer for Drift Protocol on Solana with webhook alerts and Postgres integration.
 
-Smart Contract Engineer specializing in decentralized systems across **EVM and Solana**.  
-I design **secure smart contracts**, scalable backend services, and full-stack architectures for **production-grade Web3 applications**.
+### Products
+- **[Buddy2Buddy](https://buddy2buddy.xyz)** - Rent an Activity Partner for shopping, movies, night outs and more. Live in Mumbai.
+- **[OneTap Earn](https://onetap-earn.vercel.app)** - Unified yield aggregation platform with AI Copilot, real-time risk analysis, and APY comparison.
+- **[Arise AI](https://ariseai.app)** - Augmented Reality + AI powered EdTech platform with AI mentors, podcasts, quizzes, summaries, and 3D model visualization.
+- **[InvoiceGen](https://invoicengen.tech)** - Create beautiful, customizable, multi-theme invoices for enterprises in seconds — starting at just $5.
+- **[Taxonchain](https://github.com/vishal-tiwari9/Taxonchain)** - ( 🔴 INCOMPLETE ) On-chain activity based tax calculator and savings optimizer.
 
----
-
-## Focus Areas
-- DeFi protocol design (AMMs, perps, liquidity mechanics)
-- Smart contract development (Solidity, Rust, Anchor)
-- Full-stack dApp engineering (on-chain → backend → frontend)
-- Security, gas optimization, and audit-ready code
-- Distributed systems and event-driven architectures
-
----
-
-## Experience
-
-**Smart Contract Engineer — Black Trade**  
-Designed and audited core trading contracts. Improved protocol security, optimized gas usage, and implemented critical DeFi logic.
-
-**Backend Developer — Astrazen**  
-Built scalable APIs, microservices, and Web3 data pipelines for user and protocol workflows.
-
-**Full Stack Developer — BndBox**  
-Delivered production dApps with wallet integrations, blockchain event indexing, and real-time UI systems.
-
----
+### Systems & Engines
+- **[Multi-Venue Trading Engine](https://github.com/vishal-tiwari9/multi-venue-trading-engine)** - ( 🔴 INCOMPLETE ) High-performance multi-venue trading engine built in Rust.
 
 ## Audit Findings & Security Work
-
-Publicly reported security findings:
-
-- **Security Issue — Faucet State & Logic Handling**  
-  https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/s/387
-
-- **Reentrancy Vulnerability — RaiseBox Faucet**  
-  https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/s/399
-
-- **Orderbook Protocol — Logic / Edge-Case Vulnerability**  
-  https://codehawks.cyfrin.io/c/2025-07-orderbook/s/115
-
-
-
-## Links
--**Portfolio:**https://vishaltiwari.me
-- **LinkedIn:** https://www.linkedin.com/in/vishal-tiwari-102bb4294/  
-- **Twitter:** https://x.com/VishalT12094272  
-- **Email:** fantasydark001@gmail.com
+- **[Security Issue — Faucet State & Logic Handling](https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/s/387)**
+- **[Reentrancy Vulnerability — RaiseBox Faucet](https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/s/399)**
+- **[Orderbook Protocol — Logic / Edge-Case Vulnerability](https://codehawks.cyfrin.io/c/2025-07-orderbook/s/115)**
