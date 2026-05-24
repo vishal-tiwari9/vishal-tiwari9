@@ -4,6 +4,7 @@
 - **[Synthora Vault](https://github.com/vishal-tiwari9/Synthora-Vault)** - ( 🔴 INCOMPLETE ) Automated leveraged trading vault for stocks (AAPL, TSLA, NVDA) and Gold.
 - **[Soho Order Book](https://github.com/vishal-tiwari9/Soho-Order-Book)** - Lite order book built in Solidity (Foundry) with order creation, matching, and cancellation.
 - **[Encrypted Prediction Market](https://github.com/vishal-tiwari9/Encrypted-Prediction-Market-with-Ai-agents)** - Encrypted prediction market where users can create and deploy their own AI agents with custom system prompts on-chain.
+- **[Auction Docs Storing Protocol](https://midc-frontend-app-uwoze.ondigitalocean.app//)** - ( 🟢 Freelance ) Project for MIDC(Government of Maharashtra to store Land allotment and Payment proofs of Auction 
 - **[Mantle Insurance](https://github.com/vishal-tiwari9/mantle-insurance)** - Protocol for creating, verifying via governance, and claiming insurance coverage on other protocols.
 - **[Agreement Monitoring](https://agreement-monitoring.vercel.app/)** - ( 🟢 Freelance ) Smart contract solution for monitoring and managing agreements.
 - **[Solana Liquidity Indexer](https://github.com/vishal-tiwari9/Solana-Liquidity-Indexer)** - Rust-based real-time liquidation indexer for Drift Protocol on Solana with webhook alerts and Postgres integration.
