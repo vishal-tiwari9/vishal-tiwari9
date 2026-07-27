@@ -20,6 +20,7 @@
 
 ### Systems & Engines
 - **[Multi-Venue Trading Engine](https://github.com/vishal-tiwari9/multi-venue-trading-engine)** -  High-performance multi-venue trading engine built in Rust.
+- **[hyperliquid Integration](https://github.com/vishal-tiwari9/hyperliquid-integration)**- A high-performance, low-latency, asynchronous non-custodial trading proxy server and interface engineered for Hyperliquid perpetual contracts
 
 ## Audit Findings & Security Work
 - **[Security Issue — Faucet State & Logic Handling](https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/s/387)**
