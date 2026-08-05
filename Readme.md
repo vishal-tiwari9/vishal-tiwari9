@@ -16,6 +16,7 @@
 - **[InvoiceGen](https://invoicengen.tech)** - Create beautiful, customizable, multi-theme invoices for enterprises in seconds — starting at just $5.
 - **[Taxonchain](https://github.com/vishal-tiwari9/Taxonchain)** - ( 🔴 INCOMPLETE ) On-chain activity based tax calculator and savings optimizer.
 - **[BndBox](https://bndbox.com)** - ( 🟢 Freelance ) Platform connecting resellers and brands, handling 10k concurrent users per month.
+- **[LIve Automation](https://www.liveautomation.co.in/)**-( 🟢 Freelance ) Cool  Animated Website, for Home and Office Automation company in Mumbai
 - **[FixSwift](https://fixswift.in/)** - ( 🟢 Freelance ) Electronic startup and showroom based in Gurgaon.
 
 ### Systems & Engines
