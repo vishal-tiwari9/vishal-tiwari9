@@ -10,6 +10,7 @@
 - **[Solana Liquidity Indexer](https://github.com/vishal-tiwari9/Solana-Liquidity-Indexer)** - Rust-based real-time liquidation indexer for Drift Protocol on Solana with webhook alerts and Postgres integration.
 
 ### Products
+-**[Planoras](https://planoras.vercel.app)**- Agentic Tourism ( with Real time Hotel and Flight Booking system) made using Prava payments
 - **[Buddy2Buddy](https://buddy2buddy.xyz)** - Rent an Activity Partner for shopping, movies, night outs and more. Live in Mumbai.
 - **[OneTap Earn](https://onetap-earn.vercel.app)** - Unified yield aggregation platform with AI Copilot, real-time risk analysis, and APY comparison.
 - **[Arise AI](https://ariseai.app)** - Augmented Reality + AI powered EdTech platform with AI mentors, podcasts, quizzes, summaries, and 3D model visualization.
@@ -20,9 +21,9 @@
 - **[FixSwift](https://fixswift.in/)** - ( 🟢 Freelance ) Electronic startup and showroom based in Gurgaon.
 
 ### Systems & Engines
+- **[blockhouse-solution](https://github.com/vishal-tiwari9/blockhouse-solution)**-High Performance and Highly Scalable Data Lake (indexer and query engine) which lets u execute SQL Query on Response from Exchanges (binance , Hl ,bitgate and 5+) deployed on K8s k3
 - **[Multi-Venue Trading Engine](https://github.com/vishal-tiwari9/multi-venue-trading-engine)** -  High-performance multi-venue trading engine built in Rust.
 - **[hyperliquid Integration](https://github.com/vishal-tiwari9/hyperliquid-integration)**- A high-performance, low-latency, asynchronous non-custodial trading proxy server and interface engineered for Hyperliquid perpetual contracts
-- **[blockhouse-solution](https://github.com/vishal-tiwari9/blockhouse-solution)**-High Performance Data Lake (indexer and query engine) which lets u execute SQL Query on Response from Exchanges
 
 ## Audit Findings & Security Work
 - **[Security Issue — Faucet State & Logic Handling](https://codehawks.cyfrin.io/c/2025-10-raisebox-faucet/s/387)**
