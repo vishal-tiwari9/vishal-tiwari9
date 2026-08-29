@@ -1,4 +1,13 @@
 # Showcase :)
+### Smart Contracts
+- **[GMX Vault](https://github.com/vishal-tiwari9/Gmx-vault)** - On-chain vault that allows users to deposit USDC and automatically open leveraged long/short positions on GMX.
+- **[Synthora Vault](https://github.com/vishal-tiwari9/Synthora-Vault)** - ( 🔴 INCOMPLETE ) Automated leveraged trading vault for stocks (AAPL, TSLA, NVDA) and Gold.
+- **[Soho Order Book](https://github.com/vishal-tiwari9/Soho-Order-Book)** - Lite order book built in Solidity (Foundry) with order creation, matching, and cancellation.
+- **[Encrypted Prediction Market](https://github.com/vishal-tiwari9/Encrypted-Prediction-Market-with-Ai-agents)** - Encrypted prediction market where users can create and deploy their own AI agents with custom system prompts on-chain.
+- **[Auction Docs Storing Protocol](https://midc-frontend-app-uwoze.ondigitalocean.app//)** - ( 🟢 Freelance ) Project for MIDC(Government of Maharashtra to store Land allotment and Payment proofs of Auction 
+- **[Mantle Insurance](https://github.com/vishal-tiwari9/mantle-insurance)** - Protocol for creating, verifying via governance, and claiming insurance coverage on other protocols.
+- **[Agreement Monitoring](https://agreement-monitoring.vercel.app/)** - ( 🟢 Freelance ) Smart contract solution for monitoring and managing agreements.
+- **[Solana Liquidity Indexer](https://github.com/vishal-tiwari9/Solana-Liquidity-Indexer)** - Rust-based real-time liquidation indexer for Drift Protocol on Solana with webhook alerts and Postgres integration.
 ### Products
 - **[Planoras](https://planoras.vercel.app)**- Agentic Tourism ( with Real time Hotel and Flight Booking system) made using Prava payments
 - **[Buddy2Buddy](https://buddy2buddy.xyz)** - Rent an Activity Partner for shopping, movies, night outs and more. Live in Mumbai.
@@ -14,16 +23,6 @@
 - **[blockhouse-solution](https://github.com/vishal-tiwari9/blockhouse-solution)**-High Performance and Highly Scalable Data Lake (indexer and query engine) which lets u execute SQL Query on Response from Exchanges (binance , Hl ,bitgate and 5+) deployed on K8s k3
 - **[Multi-Venue Trading Engine](https://github.com/vishal-tiwari9/multi-venue-trading-engine)** -  High-performance multi-venue trading engine built in Rust.
 - **[hyperliquid Integration](https://github.com/vishal-tiwari9/hyperliquid-integration)**- A high-performance, low-latency, asynchronous non-custodial trading proxy server and interface engineered for Hyperliquid perpetual contracts
-### Smart Contracts
-- **[GMX Vault](https://github.com/vishal-tiwari9/Gmx-vault)** - On-chain vault that allows users to deposit USDC and automatically open leveraged long/short positions on GMX.
-- **[Synthora Vault](https://github.com/vishal-tiwari9/Synthora-Vault)** - ( 🔴 INCOMPLETE ) Automated leveraged trading vault for stocks (AAPL, TSLA, NVDA) and Gold.
-- **[Soho Order Book](https://github.com/vishal-tiwari9/Soho-Order-Book)** - Lite order book built in Solidity (Foundry) with order creation, matching, and cancellation.
-- **[Encrypted Prediction Market](https://github.com/vishal-tiwari9/Encrypted-Prediction-Market-with-Ai-agents)** - Encrypted prediction market where users can create and deploy their own AI agents with custom system prompts on-chain.
-- **[Auction Docs Storing Protocol](https://midc-frontend-app-uwoze.ondigitalocean.app//)** - ( 🟢 Freelance ) Project for MIDC(Government of Maharashtra to store Land allotment and Payment proofs of Auction 
-- **[Mantle Insurance](https://github.com/vishal-tiwari9/mantle-insurance)** - Protocol for creating, verifying via governance, and claiming insurance coverage on other protocols.
-- **[Agreement Monitoring](https://agreement-monitoring.vercel.app/)** - ( 🟢 Freelance ) Smart contract solution for monitoring and managing agreements.
-- **[Solana Liquidity Indexer](https://github.com/vishal-tiwari9/Solana-Liquidity-Indexer)** - Rust-based real-time liquidation indexer for Drift Protocol on Solana with webhook alerts and Postgres integration.
-
 
 
 ## Audit Findings & Security Work
